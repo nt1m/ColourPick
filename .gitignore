@@ -1,0 +1,14 @@
+# .gitignore - List of filenames git should ignore
+*~
+*.pyc
+*.pyo
+TAGS
+tags
+ID
+.DS_Store*
+*.pdb
+Thumbs.db
+donnees/*
+
+# Ignore compiled java code.
+*.class
